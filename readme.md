@@ -116,7 +116,7 @@ Since the target system is my computer I've removed something that my configurat
 
 # Change Needed
 
-The **EFI** is ready to use, you only have to generate your [PlatformInfo](https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/coffee-lake-plus.html#platforminfo).
+The **EFI** is ready to use, you only need to generate your [PlatformInfo](https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/coffee-lake-plus.html#platforminfo).
 
 Like in [ske1996](https://github.com/ske1996/matebook-13and14-OpenCore-Hackintosh) project I use "**MacBookPro15,2**" but for more info I suggest to read [Opencore Guide](https://dortania.github.io/OpenCore-Install-Guide/extras/smbios-support.html).
 
